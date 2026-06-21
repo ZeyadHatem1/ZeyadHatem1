@@ -19,9 +19,9 @@ CS & AI student at the University of Birmingham, graduating 2027. Interested in 
 
 ## Skills
 
-**Languages:** Python, Java, C, JavaScript
+**Languages:** Python, C++, Java, C, JavaScript
 
-**Backend:** Spring Boot, FastAPI, REST API design, PostgreSQL
+**Backend:** FastAPI, Sring Boot, REST API design, PostgreSQL
 
 **ML / Data:** scikit learn, Pandas, NumPy, Matplotlib
 
