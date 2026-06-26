@@ -1,34 +1,25 @@
-# Hi, I'm Zeyad 
+Hi, I'm Zeyad
 
-CS & AI student at the University of Birmingham, graduating 2027. Interested in quantitative finance, Fintech, backend engineering, and applied machine learning.
+CS & AI student at the University of Birmingham, graduating 2027. Interested in quantitative finance, fintech, backend engineering, and applied machine learning.
 
-2nd place at Quantihack 2026 (800+ participants) — built a system reconstructing crowd-implied WTI crude oil prices from binary options data and identifying a two hour lead-lag with NYMEX CL futures.
-
----
+2nd place at Quantihack 2026 (800+ participants) — reconstructed crowd-implied WTI crude oil prices from binary options data and identified a two hour lead-lag with NYMEX CL futures.
 
 ## Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [algo-backtest](https://github.com/ZeyadHatem1/algo-backtest) | Algorithmic trading backtesting platform with strategy engine, execution simulation, and performance analytics | Python, FastAPI, React, PostgreSQL |
-| [SpendIf](https://github.com/ZeyadHatem1/SpendIf) | Personal finance tracker with rule-based anomaly detection and spending analytics dashboard | Java, Spring Boot, React, PostgreSQL |
-| [incident-predictor](https://github.com/ZeyadHatem1/incident-predictor) | Time series ML model predicting infrastructure incidents from CPU signals using sliding-window Random Forest | Python, scikit-learn |
-| [word2vec_numpy](https://github.com/ZeyadHatem1/word2vec_numpy) | Word2Vec implemented from scratch in NumPy, trained on the text8 corpus | Python, NumPy |
-
----
+| Quanthack | Live multi strategy algorithmic trading system on MT5 generating ~$12k P&L; integrated AI agents for real-time market regime detection and automated risk controls | Python, MetaTrader5, Anthropic Claude API |
+| Alternative Data Alpha | Reconstructed crowd implied WTI crude oil prices from 21 binary contracts using probabilistic modelling; identified a two hour lead-lag with NYMEX CL futures | Python, React.js, Streamlit |
+| algo backtest | Algorithmic trading backtesting platform with strategy engine, execution simulation, and performance analytics | Python, FastAPI, React, PostgreSQL |
+| SpendIf | Personal finance tracker with rule-based anomaly detection and spending analytics dashboard | Java, Spring Boot, React, PostgreSQL |
 
 ## Skills
 
-**Languages:** Python, C++, Java, C, JavaScript
-
-**Backend:** FastAPI, Sring Boot, REST API design, PostgreSQL
-
-**ML / Data:** scikit learn, Pandas, NumPy, Matplotlib
-
+**Languages:** Python, C++, Java, C, JavaScript  
+**Backend:** FastAPI, Spring Boot, REST API design, PostgreSQL  
+**ML / Data:** scikit-learn, Pandas, NumPy, Matplotlib  
 **Frontend:** React.js
-
----
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeyad-al-bagoury-a945842ba)
+[LinkedIn](https://www.linkedin.com/in/zeyad-al-bagoury-a945842ba/)
