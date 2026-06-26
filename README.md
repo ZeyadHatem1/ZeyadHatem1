@@ -2,7 +2,7 @@ Hi, I'm Zeyad
 
 CS & AI student at the University of Birmingham, graduating 2027. Interested in quantitative finance, fintech, backend engineering, and applied machine learning.
 
-2nd place at Quantihack 2026 (800+ participants) — reconstructed crowd-implied WTI crude oil prices from binary options data and identified a two hour lead-lag with NYMEX CL futures.
+2nd place algorithm at Quantihack 2026 (800+ participants) — reconstructed crowd-implied WTI crude oil prices from binary options data and identified a two hour lead-lag with NYMEX CL futures.
 
 ## Projects
 
