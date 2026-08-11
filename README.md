@@ -1,6 +1,6 @@
 Hi, I'm Zeyad
 
-CS & AI student at the University of Birmingham, graduating 2027. Interested in quantitative finance, fintech, backend engineering, and applied machine learning.
+CS & AI student at the University of Birmingham, graduating 2027. Interested in low latency development, fintech, backend engineering, and applied machine learning.
 
 2nd place algorithm at Quantihack 2026 (800+ participants) — reconstructed crowd-implied WTI crude oil prices from binary options data and identified a two hour lead-lag with NYMEX CL futures.
 
@@ -15,7 +15,7 @@ CS & AI student at the University of Birmingham, graduating 2027. Interested in 
 
 ## Skills
 
-**Languages:** Python, C++, Java, C, JavaScript  
+**Languages:** C++, Python, Java, C  
 **Backend:** FastAPI, Spring Boot, REST API design, PostgreSQL  
 **ML / Data:** scikit-learn, Pandas, NumPy, Matplotlib  
 **Frontend:** React.js
