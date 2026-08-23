@@ -11,7 +11,7 @@ CS & AI student at the University of Birmingham, graduating 2027. Interested in 
 | Quanthack | Live multi strategy algorithmic trading system on MT5 generating ~$12k P&L; integrated AI agents for real-time market regime detection and automated risk controls | Python, MetaTrader5, Anthropic Claude API |
 | Alternative Data Alpha | Reconstructed crowd implied WTI crude oil prices from 21 binary contracts using probabilistic modelling; identified a two hour lead-lag with NYMEX CL futures | Python, React.js, Streamlit |
 | algo backtest | Algorithmic trading backtesting platform with strategy engine, execution simulation, and performance analytics | Python, FastAPI, React, PostgreSQL |
-| SpendIf | Personal finance tracker with rule-based anomaly detection and spending analytics dashboard | Java, Spring Boot, React, PostgreSQL |
+| Market Simulator | Event-driven exchange simulator with a deterministic matching engine, Monte Carlo risk analytics, and Black-Scholes derivatives pricing; core engine ported to C++ via pybind11 and validated against 342 tests | Python, C++, pybind11, NumPy, pandas, SciPy |
 
 ## Skills
 
